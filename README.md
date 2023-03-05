@@ -1,8 +1,7 @@
 <h1 align="center">Chess</h1>
 <p align="center">
   An 800x800 chess program, with similar asthetics to chess.com, but built in c++
-  <p></p>
-  <img src="https://user-images.githubusercontent.com/63375470/222952899-fe9eb3e2-d9e7-4ae4-abb0-4f11d8d23dd8.png" alt="Chess" class="center">
+  <img src="https://user-images.githubusercontent.com/63375470/222952899-fe9eb3e2-d9e7-4ae4-abb0-4f11d8d23dd8.png" alt="Chess" class="center" style="margin-up:50px;">
 </p>
 
 ## Installation
